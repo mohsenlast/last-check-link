@@ -1,0 +1,5 @@
+{
+  "name": "Link Audit Pro",
+  "description": "A tool to audit internal and external links on specific pages against a Google Sheet source list, with support for Persian character decoding and smart highlighting.",
+  "requestFramePermissions": []
+}
